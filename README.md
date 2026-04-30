@@ -183,9 +183,6 @@ border-t           Borders
 - [x] Icon support
 - [x] Hover effects
 
-## 📝 License
-
-Free to use and modify for personal and commercial projects.
 
 ---
 
